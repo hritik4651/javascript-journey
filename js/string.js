@@ -1,4 +1,4 @@
-//// String
+//// String [immutable]
 
 let str1 = "Toney"
 console.log(str1);
