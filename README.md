@@ -1,0 +1,2 @@
+# javascript-journey
+Learning Javascript
