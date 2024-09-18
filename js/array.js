@@ -82,4 +82,3 @@ console.log(companies);
 
 companies.push("amazon")
 console.log(companies);
-
